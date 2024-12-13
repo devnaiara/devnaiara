@@ -14,13 +14,12 @@
 - 📫 How to reach me: devnaiara@gmail.com and Linkedin: https://www.linkedin.com/in/naiara-paula-costa/
 - ⚡ Fun fact: I love riding bicycles, listening to 80's music, and spending my free time at parks, museums, and exhibitions. 🚲🎶🌳🖼️
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnaiara&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnaiara&layout=compact&theme=radical" alt="Top Langs">
+</div>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=devnaiara&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnaiara&show_icons=true&theme=radical)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devnaiara&repo=nome-do-repositorio&theme=radical)
 
 
 
