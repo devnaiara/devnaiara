@@ -16,6 +16,12 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnaiara&layout=compact&theme=radical)
 
-## 📊 Languages in Pie Chart
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=devnaiara&theme=radical)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devnaiara&layout=pie&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnaiara&show_icons=true&theme=radical)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devnaiara&repo=nome-do-repositorio&theme=radical)
+
+
+
+
