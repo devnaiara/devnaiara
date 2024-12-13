@@ -3,22 +3,15 @@
 - 👀 Estou interessada em tecnologia, programação e em descobrir soluções criativas para desafios do dia a dia.  
 - 🌱 Atualmente estou estudando **Análise e Desenvolvimento de Sistemas** e explorando novos frameworks e ferramentas de desenvolvimento de software.  
 - 💞️ Procuro colaborar em projetos que combinem tecnologia e criatividade, especialmente aqueles que promovam aprendizado e inovação.  
-- 📫 Como me encontrar: Linkedin https://www.linkedin.com/in/naiara-paula-costa/ e E-mail: devnaiara@gmail.com
 - ⚡ Curiosidade: Amo andar de bicicleta, ouvir músicas dos anos 80 e passar meu tempo livre em parques, museus e exposições. 🚲🎶🌳🖼️
-- 🔗 Conecte-se comigo no:
+- - 📫 E-mail: devnaiara@gmail.com
+- 🔗 Conecte-se comigo / Connect with me:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/naiara-paula-costa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-
-<div align="center">
-  <a href="mailto:devnaiara@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
-
 
 ---
 # 👋 Hi, I’m @devnaiara  
