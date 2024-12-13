@@ -12,5 +12,6 @@
 - 🌱 I’m currently learning **Systems Analysis and Development** and exploring new frameworks and tools in software development.  
 - 💞️ I’m looking to collaborate on projects that combine technology and creativity, especially those that promote learning and innovation.  
 - 📫 How to reach me: devnaiara@gmail.com and Linkedin: https://www.linkedin.com/in/naiara-paula-costa/
-- ⚡ Fun fact: I love riding bicycles, listening to 80's music, and spending my free time at parks, museums, and exhibitions. 🚲🎶🌳🖼️  
+- ⚡ Fun fact: I love riding bicycles, listening to 80's music, and spending my free time at parks, museums, and exhibitions. 🚲🎶🌳🖼️
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnaiara&layout=compact&theme=radical)
