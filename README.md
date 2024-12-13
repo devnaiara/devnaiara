@@ -15,3 +15,7 @@
 - ⚡ Fun fact: I love riding bicycles, listening to 80's music, and spending my free time at parks, museums, and exhibitions. 🚲🎶🌳🖼️
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnaiara&layout=compact&theme=radical)
+
+## 📊 Languages in Pie Chart
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devnaiara&layout=pie&theme=radical)
