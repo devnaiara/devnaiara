@@ -33,13 +33,3 @@
 </div>
 
 
-## My Contributions
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=devnaiara&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-
-
