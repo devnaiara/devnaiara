@@ -24,16 +24,13 @@
   
 <div align="center">
 
-## My GitHub Contributions  
-[![Naiara's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devnaiara&bg_color=0d1117&color=f7f7f7&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## My Contributions
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=devnaiara&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
-
-
-## Minhas Contribuições no GitHub
-[![Naiara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devnaiara&bg_color=0d1117&color=f7f7f7&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 
