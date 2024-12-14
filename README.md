@@ -24,6 +24,15 @@
   
 <div align="center">
 
+## My Top Languages
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnaiara&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
 ## My Contributions
 
 <div align="center">
