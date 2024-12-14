@@ -21,10 +21,6 @@
 - 💞️ I’m looking to collaborate on projects that combine technology and creativity, especially those that promote learning and innovation.  
 - 📫 How to reach me: devnaiara@gmail.com
 - ⚡ Fun fact: I love riding bicycles, listening to 80's music, and spending my free time at parks, museums, and exhibitions. 🚲🎶🌳🖼️
-  
-<div align="center">
-
-## My Top Languages
 
 <div align="center">
 
