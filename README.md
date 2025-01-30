@@ -1,7 +1,6 @@
 # 👋 Oi, eu sou a @devnaiara!  
 
 - 👀 Estou interessada em tecnologia, programação e em descobrir soluções criativas para desafios do dia a dia.  
-- 🌱 Atualmente estou estudando **Análise e Desenvolvimento de Sistemas** e explorando novos frameworks e ferramentas de desenvolvimento de software.  
 - 💞️ Procuro colaborar em projetos que combinem tecnologia e criatividade, especialmente aqueles que promovam aprendizado e inovação.  
 - ⚡ Curiosidade: Amo andar de bicicleta, ouvir músicas dos anos 80 e passar meu tempo livre em parques, museus e exposições. 🚲🎶🌳🖼️
 - 📫 Contato: devnaiara@gmail.com
@@ -17,7 +16,6 @@
 # 👋 Hi, I’m @devnaiara  
 
 - 👀 I’m interested in technology, programming, and discovering creative solutions for real-world challenges.  
-- 🌱 I’m currently learning **Systems Analysis and Development** and exploring new frameworks and tools in software development.  
 - 💞️ I’m looking to collaborate on projects that combine technology and creativity, especially those that promote learning and innovation.  
 - 📫 How to reach me: devnaiara@gmail.com
 - ⚡ Fun fact: I love riding bicycles, listening to 80's music, and spending my free time at parks, museums, and exhibitions. 🚲🎶🌳🖼️
