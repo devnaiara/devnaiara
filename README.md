@@ -3,7 +3,7 @@
 - 👀 Estou interessada em tecnologia, programação e em descobrir soluções criativas para desafios do dia a dia.  
 - 💞️ Procuro colaborar em projetos que combinem tecnologia e criatividade, especialmente aqueles que promovam aprendizado e inovação.  
 - ⚡ Curiosidade: Amo andar de bicicleta, ouvir músicas dos anos 80 e passar meu tempo livre em parques, museus e exposições. 🚲🎶🌳🖼️
-- 📫 Contato: devnaiara@gmail.com
+- 📫 Contato: 
 - 🔗 Conecte-se comigo / Connect with me:
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 - 👀 I’m interested in technology, programming, and discovering creative solutions for real-world challenges.  
 - 💞️ I’m looking to collaborate on projects that combine technology and creativity, especially those that promote learning and innovation.  
-- 📫 How to reach me: devnaiara@gmail.com
+- 📫 How to reach me: 
 - ⚡ Fun fact: I love riding bicycles, listening to 80's music, and spending my free time at parks, museums, and exhibitions. 🚲🎶🌳🖼️
 
 <div align="center">
